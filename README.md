@@ -70,7 +70,7 @@ images/azure-website.zip-uploaded.png
 
  🌐 Access Website
  After apply, open:
-http://20.12.221.162
+http://135.119.59.113
 
  👤 Author
 Suraj Chandel
