@@ -27,9 +27,11 @@ The website files are stored in **Azure Blob Storage** and automatically deploye
 
 ## 🖥️ Website Output
 
-![Website Output 1](images/Output-1.png)
+# ![Website Output 1](images/Output-1.png)
+images/Output-1.png
 
-![Website Output 2](images/Output-2.png)
+# ![Website Output 2](images/Output-2.png)
+images/Output-2.png
 
 ---
 
@@ -38,24 +40,33 @@ The website files are stored in **Azure Blob Storage** and automatically deploye
 ### Initialize Terraform
 terraform init
 
-![Terraform Init Validate](images/terraform-init-validate.png)
+# ![Terraform Init Validate](images/terraform-init-validate.png)
+images/terraform-init-validate.png
 
 Plan Infrastructure
 terraform plan
 
-![Terraform Plan](images/terraform-plan.png)
+# ![Terraform Plan](images/terraform-plan.png)
+images/terraform-plan.png
 
 Apply Infrastructure
 terraform apply
-![Terraform Apply](images/terraform-apply.png)
+
+# ![Terraform Apply](images/terraform-apply.png)
+images/terraform-apply.png
 
 Terraform Apply Output
-![Website](images/url.png)
+
+# ![Website](images/url.png)
+images/url.png
 
  ☁️ Azure Resources
  
-![Resource Group](images/resource-group.png)
-![Website ZIP Uploaded](images/azure-website.zip-uploaded.png)
+# ![Resource Group](images/resource-group.png)
+images/resource-group.png
+
+# ![Website ZIP Uploaded](images/azure-website.zip-uploaded.png)
+images/azure-website.zip-uploaded.png
 
  🌐 Access Website
  After apply, open:
