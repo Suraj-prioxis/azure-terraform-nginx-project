@@ -125,7 +125,7 @@ resource "azurerm_network_interface" "nic" {
 resource "random_string" "suffix" {
   length  = 5
   lower   = true
-  upper   = false   # ✅ IMPORTANT
+  upper   = false # ✅ IMPORTANT
   numeric = true
   special = false
 }
@@ -192,7 +192,7 @@ runcmd:
   - chmod -R 755 /var/www/html
   - systemctl restart nginx
 EOF
-)
+  )
 
   os_disk {
     caching              = "ReadWrite"
